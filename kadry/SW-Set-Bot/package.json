@@ -1,0 +1,16 @@
+{
+  "name": "sw-dokumenty-bot",
+  "version": "1.0.0",
+  "description": "Bot Discord do dokumentów służbowych Służby Więziennej",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.21.0",
+    "dotenv": "^16.6.1"
+  },
+  "engines": {
+    "node": ">=18.17.0"
+  }
+}
